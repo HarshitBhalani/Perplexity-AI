@@ -321,7 +321,7 @@ Only introduce yourself **once per session**, not on every message. Begin now.
               />
               {hasStartedChat && (
                 <div className="animate-fade-in">
-                  <h1 className="text-xl font-bold text-gray-800 dark:text-white">AI Assistant</h1>
+                  <h1 className="text-xl font-bold text-gray-800 dark:text-white">Perplexity AI</h1>
                   <p className="text-sm text-gray-600 dark:text-gray-400">Ask me anything</p>
                 </div>
               )}
@@ -403,7 +403,7 @@ Only introduce yourself **once per session**, not on every message. Begin now.
         <div className="flex-1 flex flex-col items-center justify-center px-4 text-center">
           <div className="max-w-2xl mx-auto space-y-6">
             <h1 className="text-4xl font-bold text-gray-800 dark:text-white bg-gradient-to-r from-blue-600 to-purple-600 bg-clip-text text-transparent">
-              Welcome to AI Assistant
+              Welcome to Perplexity AI
             </h1>
             <p className="text-lg text-gray-600 dark:text-gray-400">
               Ask me anything and I'll provide clear, accurate answers with the option to get related articles

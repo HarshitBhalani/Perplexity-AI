@@ -39,8 +39,8 @@ function AppSidebar() {
                 <Image 
                     src="/logo.png" 
                     alt="Logo" 
-                    width={60} 
-                    height={60} 
+                    width={120} 
+                    height={120} 
                     className="mx-auto"
                 />
             </SidebarHeader>
