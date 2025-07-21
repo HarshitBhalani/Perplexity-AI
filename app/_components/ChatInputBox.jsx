@@ -446,7 +446,7 @@ Only introduce yourself **once per session**, not on every message. Begin now.
                 />
                 
                 {/* SERP Button */}
-                {showSerpButton && (
+{/*                 {showSerpButton && (
                   <div className="mt-6 flex flex-col sm:flex-row gap-4 items-start">
                     <Button
                       onClick={fetchSerpResults}
@@ -460,7 +460,7 @@ Only introduce yourself **once per session**, not on every message. Begin now.
                       Find relevant web sources for deeper research
                     </span>
                   </div>
-                )}
+                )} */}
               </div>
             )}
 
